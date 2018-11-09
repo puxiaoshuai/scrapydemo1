@@ -1,0 +1,1320 @@
+Linux 基础入门（新版）
+新手指南之玩转实验楼
+Spring Boot 入门教程
+C语言版 Flappy Bird
+Python 自动化运维实战
+JDK 核心 API
+JDBC 入门教程
+Django 基础教程
+C++ 使用 openGL 实现吃豆人游戏
+MyBatis 框架基础入门
+Python玩转Hadoop之MRjob入门
+C++实现课程管理系统
+Spark SQL 入门到上手实战
+Python3 简明教程
+C 语言入门教程
+基于 Servlet 的简单验证码图片生成
+GDB 简明教程
+C++ 实现 STL 标准库和算法
+Java 单元测试实战
+Java编程语言（新版）
+SVC 分类器识别手写字体
+Python 实现 Redis 异步客户端 
+区块链：构建自己的加密货币
+HIVE教程
+用神经网络破解验证码
+GD库实现图片水印与缩略图
+Hadoop 分布式文件系统——导入和导出数据  
+C 语言实现贪吃蛇
+用 C 编写打字练习软件
+Python3 实现图片拼接与混合
+基于 Python 的文件备份
+Hopfield 算法基础讲解及实例实现
+PHP实现手机归属地查询
+PHP QRCode生成二维码
+PHP Socket编程
+PHP 实现验证码制作
+Collabtive系统跨站脚本攻击实验
+C语言实现Linux touch命令 
+数据整理与转换：tidyr 和 dplyr 应用
+金融资产收益率序列特征
+Python 网站信息爬虫
+Python 实现推箱子游戏
+C 语言快速实现五子棋
+流式实时日志分析系统——《Spark 最佳实践》
+Spark 大数据动手实验
+Hadoop 图处理--《hadoop应用框架》
+Python 实现简单计算器
+用 Flex 与 Yacc 开发一门编程语言
+R 语言构建资产定价模型
+金融风险管理：VaR 和 ES 的度量
+使用 Flume 收集数据
+Python 实现数据科学中的无监督挖掘技术
+Python3使用 XML-RPC共享文件
+Python 的循环语句和隐含波动率的计算
+R 语言实现投资组合问题
+OpenStack 对象存储
+高级 bash 脚本编程指南
+基于Pygame开发贪吃蛇和俄罗斯方块
+ROS机器人操作系统中级教程
+R 语言实现样本数据的方差分析
+Metasploit实现木马生成、捆绑及免杀
+Linux Capability探索实验
+Linux系统安装及配置邮件服务器
+BMP图像信息隐藏
+Node.js上传文件实例
+缓冲区溢出漏洞实验
+ShellShock 攻击实验
+PHP 之 Ajax 实例讲解
+ThinkPHP 简易文章管理系统
+Python3 实现可控制肉鸡的反向Shell
+Python3 实现色情图片识别
+C++ 打造 Markdown 解析器
+Go语言编程
+C++11/14 高速上手教程
+R 语言基础入门
+MongoDB 基础教程
+Python3 & OpenCV 视频转字符动画
+Python实现Zip文件的暴力破解
+基于 Flask 与 MySQL 实现番剧推荐系统
+Vim编辑器
+动手实战学Docker
+由浅入深学网络
+Kali 渗透测试 - 后门技术实战（10个实验）
+Kali 渗透测试 - Web 应用攻击实战
+Kali 渗透测试 - 服务器攻击实战（20个实验）
+C语言实现文件类型统计程序
+Python 实现 FTP 弱口令扫描器
+自联想器的 Python 实现
+Pandas 使用教程
+RNN神经网络讲解及基础应用
+利用随机森林算法预测 Titanic 乘客生还概率
+Spark机器学习--运用逻辑回归分析银行营销数据
+在Github Pages上部署自己的简历
+Python3 实现命令行动态进度条
+Shell 脚本实现 Linux 系统监控
+C++实现运动目标的追踪
+ggplot2 快速入门：基础图形作法
+利用微信API将你的微信变为聊天机器人
+决策树实战项目-鸢尾花分类
+云原生监控系统 Prometheus
+构建 ELK(+Redis) 分布式 Nginx 日志分析系统
+Go 语言实现WebSocket协议
+Python 实现端口扫描器
+Node.js 经典项目实战
+ThinkPHP框架实践
+基于 Gitbook 制作电子书
+C++ 使用 Crypto++ 库实现常用的加密算法
+PHP 实现简单的 MVC 框架
+C++ 开发 Web 服务框架
+C++ 实现内存泄露检查器
+序列的数据挖掘--《数据科学：R语言实战》
+Python实现网站模拟登陆
+SDN软件定义网络动手实验
+Spark 基础之 Streaming 快速上手
+C语言实现 Linux 网络嗅探器
+Python3 实现火车票查询工具
+Python3 实现简单的 Web 服务器
+React+Express+MongoDB 实现网易云音乐
+PHP 动态页面静态化实战
+ jQuery在购物车的使用
+C++ 实现高性能内存池
+Python实现3D建模工具
+PHP 实现用户注册登录功能
+C++ 实现太阳系行星系统
+基于PyQt5 实现地图中定位相片拍摄位置
+Python实现模板引擎
+100 行 C++ 代码实现线程池
+Go 语言实现缓存系统
+使用 Python 创建照片马赛克
+使用机器学习方法预测世界杯冠军
+Python 实现文字聊天室
+Python从零实现图像形态学处理
+ Python 实现类似 Redis 的 NoSQL 数据库
+深入浅出 Swift 3
+C 语言实现多线程排序
+Linux下实现多线程模型
+Spark 基础之 DataFrame 高阶应用技巧
+Linux 系统搭建及配置 DNS 服务器
+Python 实现从 excel 读取数据并绘制成精美图像
+Elasticsearch教程--基础入门篇
+Wireshark网络分析实战
+《Python 贝叶斯分析》- 利用逻辑回归实现鸢尾花分类
+基于TensorFlow实现卷积神经网络
+仿 StackOverflow 开发在线问答系统
+《汇编语言（第2版）》郑晓薇编著配套实验
+C++ 实现即时通信软件
+Python3 基于 Flask 框架搭建个人博客
+Struts框架教程
+Scala 开发教程
+Pandas 百题大冲关
+Python 基于共现提取《釜山行》人物关系
+Spring MVC 简易教程
+PHP 编程入门
+Python3 实现推理游戏Bagels
+C 语言实现 web 服务器
+Python 数据分析入门与进阶
+16 个 PHP 设计模式详解
+MySQL 基础课程
+基于 Django 实现 Upwork 众包网站
+Python 图片转字符画
+使用逻辑回归预测IPO市场
+Vue.js+Koa.js+MongoDB打造“什么值得买”网站
+Vue.js 实现富文本编辑器
+深度学习初探——入门DL主流框架
+C++ 实现简易 Docker 容器
+Scala 开发二十四点游戏
+RabbitMQ 消息队列
+Python 气象数据分析：《Python 数据分析实战》
+利用Tensorflow设计简单的前向神经网络
+SIFT特征提取分析算法讲解及应用
+Kaggle 项目实战--回归预测波士顿房价
+RBAC打造通用web管理权限
+竞态条件漏洞实验
+NumPy 使用教程
+Python 生成个性二维码
+使用 Python 实现深度神经网络
+Elgg 系统 CSRF 攻击实验
+PHP + AJAX 实现表格实时编辑
+C++ 实现俄罗斯方块
+Django打造文件分享系统
+Python 数据可视化 -- 《Python 金融大数据分析》
+实现express框架中的session中间件
+Keras 实战项目：通过预训练模型实现迁移学习
+ R 语言实现样本的主成分与因子分析
+Java实现个人博客
+通过代码审计学习Web安全
+比特币基础概念入门
+R语言分析股票指数的GARCH效应
+R 语言实现股票数据的预处理及分析
+基于R语言的多元线性回归--我国经济增长的定量研究
+Python 实现简单邮件客户端
+利用Flask-AppBuilder 快速构建Web后台管理应用
+OpenStack 镜像管理
+Superset 数据分析平台搭建及使用
+R语言数据分析之正态性检验和平稳性检验
+R 语言实现样本数据的判别分析
+OpenStack Identity Manage
+kafka代码实战--让你全面学习Kafka
+VPN数据包分析
+R语言建立VAR模型分析联合内生变量的动态关系
+OpenStack Ocata版本单节点搭建
+R语言实现城镇居民全年人均消费支出的聚类分析
+使用R语言基于新浪股票数据分析金融数据的“统计常识”
+对英国房屋价格建模并预测 ---《量化金融R语言初级教程》
+SQL 注入基础原理介绍
+scikit-learn 实战之非监督学习
+JAVA基于SSM框架实现简历生成
+Makefile基础教程
+Robot Framework自动化测试基础实战课程
+基于SVM的猫咪图片识别器
+Laravel 5.1 实现 Markdown 编辑器
+Sqlmap快速上手教程
+R语言进行商业问卷分析--《菜鸟侦探挑战数据分析》
+Python 二手房信息爬取与数据呈现
+基于卷积神经网络实现图片风格的迁移
+Matplotlib 及 Seaborn 使用教程
+R语言实现金融数据的时间序列分析及建模 
+R语言对高频交易订单流进行建模分析
+C语言实现Linux pwd命令
+使用 Python3 编写 Github 自动周报生成器
+Python打造漏洞扫描器
+Spark流式计算电商商品关注度
+Laravel 5.1制作简易留言板/评论系统
+Github 快速上手实战教程
+基于R的高级数据管理--《R语言实战（第2版）》
+scikit-learn 实战之监督学习
+MapReduce 分析 Youtube 数据
+PyQt 实现简易浏览器
+神经网络实现人脸识别任务
+手把手教你实现 Google 浏览器拓展插件
+NBA常规赛结果预测：利用Python进行比赛数据分析
+Python实现java web项目远端自动化更新部署
+K-近邻算法实现手写数字识别系统
+Python实现遗传算法求解n-queens问题
+Laravel 5.1 制作简易相册
+ROS机器人操作系统的安装、配置与初级教程
+sqli-labs通关指南系列
+Spark 自定义 UDF 分析 Uber 数据
+Floodlight Rest API 应用实战
+Floodlight 入门教程
+Kmeans聚类算法评估足球比赛
+PHP实例--CURL实现简单采集
+使用 Github Pages 和 Hexo 搭建独立博客
+C++ 实现基数树 radix tree
+PHP实例--理解无限级分类
+C++ 编写 json 生成器
+Python 解决哲学家就餐问题
+Python 实现康威生命游戏
+Laravel 5.1 基础教程
+Laravel 5.1 快速搭建用户认证系统
+使用 Python 定制词云
+使用决策树算法预测森林植被
+BurpSuite基础教程
+Wireshark抓包解析 OpenFlow 协议
+快速开始一个 Go 程序 -- 《 Go 语言实战 》 
+SSM + easyUI 搭建简易的人事管理系统
+使用卷积神经网络进行图片分类
+Python 实现简单滤镜
+基于 Bootstrap 和 PHP 实现有道翻译
+Java实现在线协作文档编辑
+3个C语言实例带你掌握递归方法论
+Spark 机器学习之电影推荐系统
+Python 实现中文错别字高亮系统
+川普撞脸希拉里(基于 OpenCV 的面部特征交换)
+人机对战初体验:Python基于Pygame实现四子棋游戏
+C++ 实现智能指针
+使用 Spark 进行流量日志分析
+Spark 实现黑名单实时过滤
+SSM 框架整合实例
+使用 Githook 实现团队 Coding Review 流程
+ffmpeg 结合 SDL 编写播放器
+Python3基于Scapy实现DDos
+Python 3 实现图片转彩色字符
+基于 TCP 的 python 聊天程序
+Python 实现英文新闻摘要自动提取
+Spark的模式挖掘—FPGrowth算法
+Kafka快速上手教程
+Python 应用马尔可夫链算法实现随机文本生成
+Python 实现简单画板
+Python实现简易局域网视频聊天工具
+PHP 封装分页类
+C语言实现LRU缓存
+大数据带你挖掘打车的秘籍
+C++ 基于 OpenCV 实现实时监控和运动检测记录
+Python实现Huffman编码解压缩文件
+数独游戏的 Python 实现与破解
+Linux多线程编程入门指南
+使用OpenCV进行图片平滑处理打造模糊效果
+使用 Python 解数学方程
+DVWA之暴力破解攻击
+Python3实现简单的FTP认证服务器
+SQLAlchemy 基础教程
+PHP实现ECharts图表功能
+Twitter数据情感分析
+使用OpenCV&&C++进行模板匹配
+Ebay 在线拍卖数据分析
+Python3 实现 Markdown 解析器
+跟我一起来玩转Makefile
+Python 实现密码强度检测器
+使用 Spark 和 D3.js 分析航班大数据
+ThinkPHP5 开发后台权限管理系统
+Python3 智能裁切图片
+C++操作 redis 实现异步订阅和发布
+C++ 实现高性能 RTTI 库
+LVS 集群负载均衡实战
+Spark 基础之 DataFrame 基本概念学习
+Python3 图片隐写术
+OAuth 2.0 授权原理与实战
+基于 Python 的简易 Shell 实现
+Spark 基础之 GraphX 图计算框架学习
+Node.js 开发端口扫描器
+Node.js静态文件服务器
+Scala 专题教程 - 隐式变换和隐式参数
+C语言实现 FTP 服务器
+基于 SendCloud 的邮箱验证
+Ansible 基础教程
+C 语言实现聊天室软件
+Scala 专题教程 - Case Class和模式匹配
+Node.js使用Sequelize操作MySQL
+Linux 防火墙技术
+Spark 基础之使用机器学习库 MLlib
+C 语言实现Linux who命令
+使用 Python3 编写系列实用脚本
+CSS3实现“红包照片”模糊效果
+经典算法解题实战
+C语言实现Linux ls命令
+Node.js+Redis实现漂流瓶
+PHP会话控制
+J2SE网络通信实践
+基于 Flask 及爬虫实现微信娱乐机器人
+C 语言实现Linux cp 命令  
+Java实现简单的支付平台业务流程
+C++ 实现银行排队服务模拟
+Hadoop入门进阶课程
+Linux系统监控实战
+Hibernate框架教程
+Elgg 系统跨站脚本攻击实验
+Redis基础教程
+Collabtive系统跨站请求伪造攻击实验
+SET-UID程序漏洞实验
+网页版2048
+C语言实现一个支持PHP的简易WEB服务器
+Node.js实现私人笔记
+PHP文件编程
+Ruby基础教程
+Java开发简单的计算器
+ThinkPHP实现云书签
+PHP 实现留言本
+网页版拼图游戏
+C 语言制作 2048
+网页版扫雷
+酷炫OpenGL旋转地球模型
+基于 jQuery 实现图片轮播
+基于腾讯文智的情感分析 
+Rails基础入门
+校花评比排名项目-PHP
+C语言利用epoll实现高并发聊天室
+Java 实现日记软件
+网页版别踩白块游戏
+C语言实现ping程序
+Linux桌面词典
+基于GO语言Revel框架和mgo的博客
+Node.js包教不包会
+Flask 实现简单聊天室
+GTK开发视频播放器
+C 语言制作简单计算器
+Python文本解析器
+基于 Hadoop 对武侠小说进行词频分析
+瀑布流加载图片墙
+Bootstrap3.0入门学习
+CSS速成教程
+Shell脚本实现打字游戏
+基于 JavaScript 实现打地鼠游戏
+用Python做2048游戏
+基于 HTML5 实现刮刮乐效果
+基于 JavaScript 按键控制坦克移动
+Laravel实现用户注册登录
+C语言实现通讯录
+Java和WebSocket开发网页聊天室
+基于 CSS3 实现抽奖大转盘
+Scala 专题教程 - Extractor
+Scala 专题教程 - 抽象成员
+R语言绘制文字云
+Python 破解验证码
+Collabtive系统SQL注入实验
+操作系统原理与实践
+Collabtive系统浏览器同源策略探索实验
+高德API + Python 解决租房问题
+Laravel大型项目系列教程
+Python Flask Web框架
+全面解析PythonChallenge
+Python3 实现键值数据库
+HBASE 教程
+Mahout教程
+Hadoop部署及管理
+TCP/IP网络协议基础
+利用TensorFlow进行自然语言处理
+使用 Python 实现一个轻量型数据库
+基于无监督学习的自编码器实现
+LAMP部署及配置
+Spark 基础之 SQL 快速上手
+Spring框架入门教程（新版）
+Go by Example 中文版
+纯前端打造实时markdown编辑器
+使用 Python3 生成分形图片
+NumPy 百题大冲关
+用 C语言编写自己的编程语言
+C语言实现大数计算器（加减乘除）
+Linux系统安装git服务器
+数据结构(新版)
+Git 实战教程
+120行代码实现简单的即时搜索
+使用 Matplotlib 绘制 2D 和 3D 图形
+化繁为简的 apply 家族和管道操作
+200 行 Python 代码实现 2048
+Spark 基础之 SparkR 快速上手
+Python实现Python解释器
+Node.js 教程
+基于HTML5 Canvas实现小游戏
+基于 Flask 与 RethinkDB 实现TODO List
+Java 8 新特性指南
+Python版设计模式实践
+Javascript基础（新版）
+Linux内核分析
+Java进阶之设计模式
+公钥加密与PKI实验
+单向哈希函数与MAC实验
+密钥加解密实验
+正则表达式基础
+Return-to-libc攻击实验
+格式化字符串漏洞实验
+基于 JavaScript 实现玫瑰花
+HTML基础入门
+Linux Web运维（Nginx）实战 
+Linux命令实例练习
+软件工程(C编码实践篇)
+基于 Canvas 实现放大镜效果
+制作Markdown预览器
+HTML5基础入门
+GO语言开发2048
+Linux 基础入门（新版）
+新手指南之玩转实验楼
+Spring Boot 入门教程
+C语言版 Flappy Bird
+Python 自动化运维实战
+JDK 核心 API
+JDBC 入门教程
+Django 基础教程
+C++ 使用 openGL 实现吃豆人游戏
+MyBatis 框架基础入门
+Python玩转Hadoop之MRjob入门
+C++实现课程管理系统
+Spark SQL 入门到上手实战
+Python3 简明教程
+C 语言入门教程
+基于 Servlet 的简单验证码图片生成
+GDB 简明教程
+C++ 实现 STL 标准库和算法
+Java 单元测试实战
+Java编程语言（新版）
+Linux Capability探索实验
+Linux系统安装及配置邮件服务器
+Go语言编程
+C++11/14 高速上手教程
+R 语言基础入门
+自联想器的 Python 实现
+Pandas 使用教程
+RNN神经网络讲解及基础应用
+利用随机森林算法预测 Titanic 乘客生还概率
+Spark机器学习--运用逻辑回归分析银行营销数据
+基于 Gitbook 制作电子书
+C++ 使用 Crypto++ 库实现常用的加密算法
+PHP 实现简单的 MVC 框架
+C++ 开发 Web 服务框架
+C++ 实现内存泄露检查器
+ jQuery在购物车的使用
+C++ 实现高性能内存池
+Python实现3D建模工具
+PHP 实现用户注册登录功能
+C++ 实现太阳系行星系统
+GD库实现图片水印与缩略图
+Hopfield 算法基础讲解及实例实现
+PHP实现手机归属地查询
+PHP QRCode生成二维码
+SVC 分类器识别手写字体
+Python 实现 Redis 异步客户端 
+PHP Socket编程
+PHP 实现验证码制作
+数据整理与转换：tidyr 和 dplyr 应用
+金融资产收益率序列特征
+区块链：构建自己的加密货币
+HIVE教程
+用神经网络破解验证码
+Hadoop 分布式文件系统——导入和导出数据  
+Python 网站信息爬虫
+Python 实现推箱子游戏
+Python 实现简单计算器
+用 Flex 与 Yacc 开发一门编程语言
+R 语言构建资产定价模型
+C 语言实现贪吃蛇
+用 C 编写打字练习软件
+Python3 实现图片拼接与混合
+金融风险管理：VaR 和 ES 的度量
+R 语言实现投资组合问题
+OpenStack 对象存储
+高级 bash 脚本编程指南
+基于 Python 的文件备份
+Collabtive系统跨站脚本攻击实验
+C语言实现Linux touch命令 
+C 语言快速实现五子棋
+流式实时日志分析系统——《Spark 最佳实践》
+BMP图像信息隐藏
+Node.js上传文件实例
+基于Pygame开发贪吃蛇和俄罗斯方块
+ROS机器人操作系统中级教程
+R 语言实现样本数据的方差分析
+Spark 大数据动手实验
+Hadoop 图处理--《hadoop应用框架》
+使用 Flume 收集数据
+Python 实现数据科学中的无监督挖掘技术
+MongoDB 基础教程
+Python3 & OpenCV 视频转字符动画
+Python实现Zip文件的暴力破解
+基于 Flask 与 MySQL 实现番剧推荐系统
+在Github Pages上部署自己的简历
+Python3使用 XML-RPC共享文件
+Python 的循环语句和隐含波动率的计算
+Python3 实现命令行动态进度条
+Shell 脚本实现 Linux 系统监控
+C++实现运动目标的追踪
+ggplot2 快速入门：基础图形作法
+序列的数据挖掘--《数据科学：R语言实战》
+Python实现网站模拟登陆
+SDN软件定义网络动手实验
+Spark 基础之 Streaming 快速上手
+C语言实现 Linux 网络嗅探器
+基于PyQt5 实现地图中定位相片拍摄位置
+Python实现模板引擎
+100 行 C++ 代码实现线程池
+Go 语言实现缓存系统
+Wireshark网络分析实战
+《Python 贝叶斯分析》- 利用逻辑回归实现鸢尾花分类
+仿 StackOverflow 开发在线问答系统
+《汇编语言（第2版）》郑晓薇编著配套实验
+C++ 实现即时通信软件
+Python3 基于 Flask 框架搭建个人博客
+Python3 实现推理游戏Bagels
+C 语言实现 web 服务器
+使用逻辑回归预测IPO市场
+Vue.js+Koa.js+MongoDB打造“什么值得买”网站
+Vue.js 实现富文本编辑器
+深度学习初探——入门DL主流框架
+Python 气象数据分析：《Python 数据分析实战》
+利用Tensorflow设计简单的前向神经网络
+SIFT特征提取分析算法讲解及应用
+Kaggle 项目实战--回归预测波士顿房价
+RBAC打造通用web管理权限
+PHP + AJAX 实现表格实时编辑
+C++ 实现俄罗斯方块
+Django打造文件分享系统
+基于TensorFlow实现卷积神经网络
+缓冲区溢出漏洞实验
+Struts框架教程
+Scala 开发教程
+Pandas 百题大冲关
+Python 基于共现提取《釜山行》人物关系
+Spring MVC 简易教程
+ShellShock 攻击实验
+Vim编辑器
+动手实战学Docker
+由浅入深学网络
+Kali 渗透测试 - 后门技术实战（10个实验）
+PHP 编程入门
+Python 数据分析入门与进阶
+16 个 PHP 设计模式详解
+Kali 渗透测试 - Web 应用攻击实战
+Kali 渗透测试 - 服务器攻击实战（20个实验）
+利用微信API将你的微信变为聊天机器人
+决策树实战项目-鸢尾花分类
+云原生监控系统 Prometheus
+MySQL 基础课程
+基于 Django 实现 Upwork 众包网站
+Python 图片转字符画
+C++ 实现简易 Docker 容器
+Scala 开发二十四点游戏
+Python3 实现火车票查询工具
+使用 Python 创建照片马赛克
+使用机器学习方法预测世界杯冠军
+RabbitMQ 消息队列
+竞态条件漏洞实验
+NumPy 使用教程
+Python 生成个性二维码
+使用 Python 实现深度神经网络
+Python 实现文字聊天室
+Python从零实现图像形态学处理
+ Python 实现类似 Redis 的 NoSQL 数据库
+Linux 系统搭建及配置 DNS 服务器
+Python 实现从 excel 读取数据并绘制成精美图像
+Elgg 系统 CSRF 攻击实验
+Elasticsearch教程--基础入门篇
+Metasploit实现木马生成、捆绑及免杀
+PHP 之 Ajax 实例讲解
+ThinkPHP 简易文章管理系统
+Python3 实现可控制肉鸡的反向Shell
+Python3 实现色情图片识别
+C++ 打造 Markdown 解析器
+C语言实现文件类型统计程序
+Python 实现 FTP 弱口令扫描器
+构建 ELK(+Redis) 分布式 Nginx 日志分析系统
+Go 语言实现WebSocket协议
+Python 实现端口扫描器
+Node.js 经典项目实战
+ThinkPHP框架实践
+Python3 实现简单的 Web 服务器
+React+Express+MongoDB 实现网易云音乐
+PHP 动态页面静态化实战
+深入浅出 Swift 3
+C 语言实现多线程排序
+Linux下实现多线程模型
+Spark 基础之 DataFrame 高阶应用技巧
+Python 数据可视化 -- 《Python 金融大数据分析》
+Keras 实战项目：通过预训练模型实现迁移学习
+ R 语言实现样本的主成分与因子分析
+Java实现个人博客
+通过代码审计学习Web安全
+比特币基础概念入门
+OpenStack 镜像管理
+Superset 数据分析平台搭建及使用
+R语言数据分析之正态性检验和平稳性检验
+R 语言实现样本数据的判别分析
+OpenStack Identity Manage
+VPN数据包分析
+R语言建立VAR模型分析联合内生变量的动态关系
+OpenStack Ocata版本单节点搭建
+R语言实现城镇居民全年人均消费支出的聚类分析
+Makefile基础教程
+Robot Framework自动化测试基础实战课程
+Matplotlib 及 Seaborn 使用教程
+R语言实现金融数据的时间序列分析及建模 
+R语言对高频交易订单流进行建模分析
+MapReduce 分析 Youtube 数据
+sqli-labs通关指南系列
+Spark 自定义 UDF 分析 Uber 数据
+Floodlight Rest API 应用实战
+实现express框架中的session中间件
+Floodlight 入门教程
+R语言分析股票指数的GARCH效应
+R 语言实现股票数据的预处理及分析
+基于R语言的多元线性回归--我国经济增长的定量研究
+Python 实现简单邮件客户端
+Kmeans聚类算法评估足球比赛
+使用决策树算法预测森林植被
+BurpSuite基础教程
+Wireshark抓包解析 OpenFlow 协议
+快速开始一个 Go 程序 -- 《 Go 语言实战 》 
+基于SVM的猫咪图片识别器
+利用Flask-AppBuilder 快速构建Web后台管理应用
+kafka代码实战--让你全面学习Kafka
+使用R语言基于新浪股票数据分析金融数据的“统计常识”
+SSM + easyUI 搭建简易的人事管理系统
+使用卷积神经网络进行图片分类
+Spark 机器学习之电影推荐系统
+Python 实现中文错别字高亮系统
+Laravel 5.1 实现 Markdown 编辑器
+使用 Python3 编写 Github 自动周报生成器
+Python打造漏洞扫描器
+Spark流式计算电商商品关注度
+Laravel 5.1制作简易留言板/评论系统
+对英国房屋价格建模并预测 ---《量化金融R语言初级教程》
+SQL 注入基础原理介绍
+scikit-learn 实战之非监督学习
+使用 Spark 进行流量日志分析
+Spark 实现黑名单实时过滤
+SSM 框架整合实例
+使用 Githook 实现团队 Coding Review 流程
+Spark的模式挖掘—FPGrowth算法
+NBA常规赛结果预测：利用Python进行比赛数据分析
+Python实现java web项目远端自动化更新部署
+K-近邻算法实现手写数字识别系统
+Python实现遗传算法求解n-queens问题
+Laravel 5.1 制作简易相册
+Python 解决哲学家就餐问题
+JAVA基于SSM框架实现简历生成
+Sqlmap快速上手教程
+R语言进行商业问卷分析--《菜鸟侦探挑战数据分析》
+Python 二手房信息爬取与数据呈现
+基于卷积神经网络实现图片风格的迁移
+Kafka快速上手教程
+Python 实现康威生命游戏
+Laravel 5.1 基础教程
+Laravel 5.1 快速搭建用户认证系统
+Github 快速上手实战教程
+基于R的高级数据管理--《R语言实战（第2版）》
+scikit-learn 实战之监督学习
+ROS机器人操作系统的安装、配置与初级教程
+使用 Python 定制词云
+Java实现在线协作文档编辑
+3个C语言实例带你掌握递归方法论
+人机对战初体验:Python基于Pygame实现四子棋游戏
+C++ 实现智能指针
+C语言实现Linux pwd命令
+PyQt 实现简易浏览器
+神经网络实现人脸识别任务
+手把手教你实现 Google 浏览器拓展插件
+PHP实例--CURL实现简单采集
+使用 Github Pages 和 Hexo 搭建独立博客
+C++ 实现基数树 radix tree
+PHP实例--理解无限级分类
+C++ 编写 json 生成器
+Python 实现简单滤镜
+基于 Bootstrap 和 PHP 实现有道翻译
+川普撞脸希拉里(基于 OpenCV 的面部特征交换)
+ffmpeg 结合 SDL 编写播放器
+Python3基于Scapy实现DDos
+Python 3 实现图片转彩色字符
+基于 TCP 的 python 聊天程序
+Python 应用马尔可夫链算法实现随机文本生成
+Python 实现简单画板
+Python实现简易局域网视频聊天工具
+C++ 基于 OpenCV 实现实时监控和运动检测记录
+ThinkPHP5 开发后台权限管理系统
+Python 实现英文新闻摘要自动提取
+Python3 智能裁切图片
+C++操作 redis 实现异步订阅和发布
+C++ 实现高性能 RTTI 库
+LVS 集群负载均衡实战
+Python3 图片隐写术
+PHP 封装分页类
+C语言实现LRU缓存
+大数据带你挖掘打车的秘籍
+Python实现Huffman编码解压缩文件
+OAuth 2.0 授权原理与实战
+基于 Python 的简易 Shell 实现
+C语言实现 FTP 服务器
+基于 SendCloud 的邮箱验证
+Ansible 基础教程
+数独游戏的 Python 实现与破解
+C 语言实现聊天室软件
+Linux 防火墙技术
+Spark 基础之使用机器学习库 MLlib
+C 语言实现Linux who命令
+使用 Python3 编写系列实用脚本
+Linux多线程编程入门指南
+使用OpenCV进行图片平滑处理打造模糊效果
+使用 Python 解数学方程
+DVWA之暴力破解攻击
+基于 Flask 及爬虫实现微信娱乐机器人
+C 语言实现Linux cp 命令  
+Python3实现简单的FTP认证服务器
+SQLAlchemy 基础教程
+PHP实现ECharts图表功能
+Java实现简单的支付平台业务流程
+C++ 实现银行排队服务模拟
+Twitter数据情感分析
+使用OpenCV&&C++进行模板匹配
+Ebay 在线拍卖数据分析
+Python3 实现 Markdown 解析器
+跟我一起来玩转Makefile
+Python 实现密码强度检测器
+使用 Spark 和 D3.js 分析航班大数据
+Linux桌面词典
+基于GO语言Revel框架和mgo的博客
+Node.js包教不包会
+Flask 实现简单聊天室
+GTK开发视频播放器
+C 语言制作简单计算器
+Python文本解析器
+基于 Hadoop 对武侠小说进行词频分析
+瀑布流加载图片墙
+操作系统原理与实践
+Bootstrap3.0入门学习
+CSS速成教程
+Shell脚本实现打字游戏
+基于 JavaScript 实现打地鼠游戏
+用Python做2048游戏
+Spark 基础之 DataFrame 基本概念学习
+Laravel大型项目系列教程
+Python Flask Web框架
+全面解析PythonChallenge
+Python3 实现键值数据库
+利用TensorFlow进行自然语言处理
+基于 HTML5 实现刮刮乐效果
+基于 JavaScript 按键控制坦克移动
+Laravel实现用户注册登录
+C语言实现通讯录
+Java和WebSocket开发网页聊天室
+Spark 基础之 GraphX 图计算框架学习
+Node.js 开发端口扫描器
+Node.js静态文件服务器
+使用 Python 实现一个轻量型数据库
+基于无监督学习的自编码器实现
+使用 Python3 生成分形图片
+NumPy 百题大冲关
+用 C语言编写自己的编程语言
+基于 CSS3 实现抽奖大转盘
+Scala 专题教程 - 隐式变换和隐式参数
+Scala 专题教程 - Case Class和模式匹配
+Node.js使用Sequelize操作MySQL
+CSS3实现“红包照片”模糊效果
+C语言实现大数计算器（加减乘除）
+Linux系统安装git服务器
+数据结构(新版)
+使用 Matplotlib 绘制 2D 和 3D 图形
+经典算法解题实战
+C语言实现Linux ls命令
+Node.js+Redis实现漂流瓶
+PHP会话控制
+J2SE网络通信实践
+化繁为简的 apply 家族和管道操作
+200 行 Python 代码实现 2048
+Spark 基础之 SparkR 快速上手
+Python实现Python解释器
+Hadoop入门进阶课程
+Linux系统监控实战
+Hibernate框架教程
+Elgg 系统跨站脚本攻击实验
+Java 8 新特性指南
+网页版2048
+Redis基础教程
+Collabtive系统跨站请求伪造攻击实验
+SET-UID程序漏洞实验
+C语言实现一个支持PHP的简易WEB服务器
+Node.js实现私人笔记
+PHP文件编程
+Ruby基础教程
+Java开发简单的计算器
+ThinkPHP实现云书签
+PHP 实现留言本
+网页版拼图游戏
+C 语言制作 2048
+网页版扫雷
+酷炫OpenGL旋转地球模型
+基于 jQuery 实现图片轮播
+基于腾讯文智的情感分析 
+Rails基础入门
+校花评比排名项目-PHP
+C语言利用epoll实现高并发聊天室
+Java 实现日记软件
+网页版别踩白块游戏
+C语言实现ping程序
+Scala 专题教程 - Extractor
+Scala 专题教程 - 抽象成员
+R语言绘制文字云
+Python 破解验证码
+Collabtive系统SQL注入实验
+Collabtive系统浏览器同源策略探索实验
+高德API + Python 解决租房问题
+HBASE 教程
+Mahout教程
+Hadoop部署及管理
+TCP/IP网络协议基础
+LAMP部署及配置
+Spark 基础之 SQL 快速上手
+Spring框架入门教程（新版）
+Go by Example 中文版
+纯前端打造实时markdown编辑器
+Git 实战教程
+120行代码实现简单的即时搜索
+基于HTML5 Canvas实现小游戏
+基于 Flask 与 RethinkDB 实现TODO List
+Node.js 教程
+Python版设计模式实践
+Javascript基础（新版）
+Linux内核分析
+Java进阶之设计模式
+公钥加密与PKI实验
+单向哈希函数与MAC实验
+密钥加解密实验
+正则表达式基础
+Return-to-libc攻击实验
+格式化字符串漏洞实验
+基于 JavaScript 实现玫瑰花
+HTML基础入门
+Linux Web运维（Nginx）实战 
+Linux命令实例练习
+软件工程(C编码实践篇)
+基于 Canvas 实现放大镜效果
+制作Markdown预览器
+HTML5基础入门
+GO语言开发2048
+Linux 基础入门（新版）
+新手指南之玩转实验楼
+Spring Boot 入门教程
+C语言版 Flappy Bird
+Python 自动化运维实战
+JDK 核心 API
+JDBC 入门教程
+Django 基础教程
+C++ 使用 openGL 实现吃豆人游戏
+MyBatis 框架基础入门
+Python玩转Hadoop之MRjob入门
+C++实现课程管理系统
+Spark SQL 入门到上手实战
+Python3 简明教程
+C 语言入门教程
+基于 Servlet 的简单验证码图片生成
+GDB 简明教程
+C++ 实现 STL 标准库和算法
+Java 单元测试实战
+Java编程语言（新版）
+GD库实现图片水印与缩略图
+Metasploit实现木马生成、捆绑及免杀
+缓冲区溢出漏洞实验
+Hopfield 算法基础讲解及实例实现
+PHP实现手机归属地查询
+PHP 之 Ajax 实例讲解
+ThinkPHP 简易文章管理系统
+Python3 实现可控制肉鸡的反向Shell
+ShellShock 攻击实验
+Vim编辑器
+动手实战学Docker
+由浅入深学网络
+PHP QRCode生成二维码
+PHP Socket编程
+PHP 实现验证码制作
+数据整理与转换：tidyr 和 dplyr 应用
+Python3 实现色情图片识别
+C++ 打造 Markdown 解析器
+C语言实现文件类型统计程序
+Kali 渗透测试 - 后门技术实战（10个实验）
+Kali 渗透测试 - Web 应用攻击实战
+金融资产收益率序列特征
+Python 网站信息爬虫
+Python 实现推箱子游戏
+Python 实现 FTP 弱口令扫描器
+Kali 渗透测试 - 服务器攻击实战（20个实验）
+利用微信API将你的微信变为聊天机器人
+决策树实战项目-鸢尾花分类
+Python 实现简单计算器
+用 Flex 与 Yacc 开发一门编程语言
+R 语言构建资产定价模型
+金融风险管理：VaR 和 ES 的度量
+构建 ELK(+Redis) 分布式 Nginx 日志分析系统
+Go 语言实现WebSocket协议
+Python 实现端口扫描器
+Node.js 经典项目实战
+云原生监控系统 Prometheus
+Python3 实现火车票查询工具
+使用 Python 创建照片马赛克
+使用机器学习方法预测世界杯冠军
+R 语言实现投资组合问题
+OpenStack 对象存储
+高级 bash 脚本编程指南
+基于Pygame开发贪吃蛇和俄罗斯方块
+ROS机器人操作系统中级教程
+R 语言实现样本数据的方差分析
+ThinkPHP框架实践
+Python3 实现简单的 Web 服务器
+React+Express+MongoDB 实现网易云音乐
+PHP 动态页面静态化实战
+深入浅出 Swift 3
+C 语言实现多线程排序
+Linux下实现多线程模型
+Python 实现文字聊天室
+Python从零实现图像形态学处理
+ Python 实现类似 Redis 的 NoSQL 数据库
+Linux 系统搭建及配置 DNS 服务器
+Python 实现从 excel 读取数据并绘制成精美图像
+Elasticsearch教程--基础入门篇
+Wireshark网络分析实战
+《Python 贝叶斯分析》- 利用逻辑回归实现鸢尾花分类
+BMP图像信息隐藏
+SVC 分类器识别手写字体
+Spark 基础之 DataFrame 高阶应用技巧
+仿 StackOverflow 开发在线问答系统
+《汇编语言（第2版）》郑晓薇编著配套实验
+C++ 实现即时通信软件
+Python3 基于 Flask 框架搭建个人博客
+Python3 实现推理游戏Bagels
+C 语言实现 web 服务器
+Linux Capability探索实验
+Linux系统安装及配置邮件服务器
+基于TensorFlow实现卷积神经网络
+Struts框架教程
+Node.js上传文件实例
+MongoDB 基础教程
+Python3 & OpenCV 视频转字符动画
+Python 实现 Redis 异步客户端 
+区块链：构建自己的加密货币
+HIVE教程
+用神经网络破解验证码
+Hadoop 分布式文件系统——导入和导出数据  
+C 语言实现贪吃蛇
+使用逻辑回归预测IPO市场
+Vue.js+Koa.js+MongoDB打造“什么值得买”网站
+Vue.js 实现富文本编辑器
+深度学习初探——入门DL主流框架
+Python 气象数据分析：《Python 数据分析实战》
+利用Tensorflow设计简单的前向神经网络
+Go语言编程
+Scala 开发教程
+Pandas 百题大冲关
+Python 基于共现提取《釜山行》人物关系
+Spring MVC 简易教程
+PHP 编程入门
+Python实现Zip文件的暴力破解
+基于 Flask 与 MySQL 实现番剧推荐系统
+在Github Pages上部署自己的简历
+Python3 实现命令行动态进度条
+Shell 脚本实现 Linux 系统监控
+用 C 编写打字练习软件
+Python3 实现图片拼接与混合
+基于 Python 的文件备份
+Collabtive系统跨站脚本攻击实验
+SIFT特征提取分析算法讲解及应用
+Kaggle 项目实战--回归预测波士顿房价
+RBAC打造通用web管理权限
+PHP + AJAX 实现表格实时编辑
+C++ 实现俄罗斯方块
+C++11/14 高速上手教程
+R 语言基础入门
+自联想器的 Python 实现
+Pandas 使用教程
+RNN神经网络讲解及基础应用
+Python 数据分析入门与进阶
+16 个 PHP 设计模式详解
+MySQL 基础课程
+基于 Django 实现 Upwork 众包网站
+Python 图片转字符画
+C++ 实现简易 Docker 容器
+C++实现运动目标的追踪
+ggplot2 快速入门：基础图形作法
+C语言实现Linux touch命令 
+C 语言快速实现五子棋
+流式实时日志分析系统——《Spark 最佳实践》
+Spark 大数据动手实验
+Hadoop 图处理--《hadoop应用框架》
+使用 Flume 收集数据
+Django打造文件分享系统
+利用随机森林算法预测 Titanic 乘客生还概率
+Spark机器学习--运用逻辑回归分析银行营销数据
+基于 Gitbook 制作电子书
+C++ 使用 Crypto++ 库实现常用的加密算法
+Scala 开发二十四点游戏
+RabbitMQ 消息队列
+竞态条件漏洞实验
+NumPy 使用教程
+Python 生成个性二维码
+序列的数据挖掘--《数据科学：R语言实战》
+Python实现网站模拟登陆
+Python 实现数据科学中的无监督挖掘技术
+Python3使用 XML-RPC共享文件
+Python 的循环语句和隐含波动率的计算
+PHP 实现简单的 MVC 框架
+C++ 开发 Web 服务框架
+C++ 实现内存泄露检查器
+ jQuery在购物车的使用
+C++ 实现高性能内存池
+Python实现3D建模工具
+使用 Python 实现深度神经网络
+Elgg 系统 CSRF 攻击实验
+SDN软件定义网络动手实验
+Spark 基础之 Streaming 快速上手
+C语言实现 Linux 网络嗅探器
+基于PyQt5 实现地图中定位相片拍摄位置
+PHP 实现用户注册登录功能
+C++ 实现太阳系行星系统
+Python实现模板引擎
+100 行 C++ 代码实现线程池
+Go 语言实现缓存系统
+Python 数据可视化 -- 《Python 金融大数据分析》
+Keras 实战项目：通过预训练模型实现迁移学习
+ R 语言实现样本的主成分与因子分析
+Java实现个人博客
+通过代码审计学习Web安全
+比特币基础概念入门
+OpenStack 镜像管理
+Superset 数据分析平台搭建及使用
+R语言数据分析之正态性检验和平稳性检验
+R 语言实现样本数据的判别分析
+OpenStack Identity Manage
+VPN数据包分析
+实现express框架中的session中间件
+R语言建立VAR模型分析联合内生变量的动态关系
+OpenStack Ocata版本单节点搭建
+R语言实现城镇居民全年人均消费支出的聚类分析
+Makefile基础教程
+Robot Framework自动化测试基础实战课程
+R语言分析股票指数的GARCH效应
+R 语言实现股票数据的预处理及分析
+基于R语言的多元线性回归--我国经济增长的定量研究
+Python 实现简单邮件客户端
+Matplotlib 及 Seaborn 使用教程
+R语言实现金融数据的时间序列分析及建模 
+R语言对高频交易订单流进行建模分析
+MapReduce 分析 Youtube 数据
+sqli-labs通关指南系列
+利用Flask-AppBuilder 快速构建Web后台管理应用
+kafka代码实战--让你全面学习Kafka
+Spark 自定义 UDF 分析 Uber 数据
+Floodlight Rest API 应用实战
+Floodlight 入门教程
+Kmeans聚类算法评估足球比赛
+使用决策树算法预测森林植被
+使用R语言基于新浪股票数据分析金融数据的“统计常识”
+对英国房屋价格建模并预测 ---《量化金融R语言初级教程》
+SQL 注入基础原理介绍
+scikit-learn 实战之非监督学习
+JAVA基于SSM框架实现简历生成
+BurpSuite基础教程
+Wireshark抓包解析 OpenFlow 协议
+Sqlmap快速上手教程
+R语言进行商业问卷分析--《菜鸟侦探挑战数据分析》
+Python 二手房信息爬取与数据呈现
+基于卷积神经网络实现图片风格的迁移
+Github 快速上手实战教程
+快速开始一个 Go 程序 -- 《 Go 语言实战 》 
+SSM + easyUI 搭建简易的人事管理系统
+使用卷积神经网络进行图片分类
+Spark 机器学习之电影推荐系统
+基于R的高级数据管理--《R语言实战（第2版）》
+scikit-learn 实战之监督学习
+ROS机器人操作系统的安装、配置与初级教程
+Python 实现中文错别字高亮系统
+使用 Spark 进行流量日志分析
+Spark 实现黑名单实时过滤
+SSM 框架整合实例
+使用 Githook 实现团队 Coding Review 流程
+Spark的模式挖掘—FPGrowth算法
+Kafka快速上手教程
+基于SVM的猫咪图片识别器
+Laravel 5.1 实现 Markdown 编辑器
+使用 Python3 编写 Github 自动周报生成器
+Python打造漏洞扫描器
+Spark流式计算电商商品关注度
+Laravel 5.1制作简易留言板/评论系统
+NBA常规赛结果预测：利用Python进行比赛数据分析
+Python实现java web项目远端自动化更新部署
+K-近邻算法实现手写数字识别系统
+Python实现遗传算法求解n-queens问题
+Laravel 5.1 制作简易相册
+Python 解决哲学家就餐问题
+Python 实现康威生命游戏
+Laravel 5.1 基础教程
+Laravel 5.1 快速搭建用户认证系统
+使用 Python 定制词云
+Java实现在线协作文档编辑
+3个C语言实例带你掌握递归方法论
+人机对战初体验:Python基于Pygame实现四子棋游戏
+C++ 实现智能指针
+C语言实现Linux pwd命令
+PyQt 实现简易浏览器
+神经网络实现人脸识别任务
+手把手教你实现 Google 浏览器拓展插件
+PHP实例--CURL实现简单采集
+使用 Github Pages 和 Hexo 搭建独立博客
+ThinkPHP5 开发后台权限管理系统
+C++ 实现基数树 radix tree
+PHP实例--理解无限级分类
+C++ 编写 json 生成器
+Python 实现简单滤镜
+基于 Bootstrap 和 PHP 实现有道翻译
+Python3 智能裁切图片
+C++操作 redis 实现异步订阅和发布
+C++ 实现高性能 RTTI 库
+LVS 集群负载均衡实战
+Python3 图片隐写术
+OAuth 2.0 授权原理与实战
+川普撞脸希拉里(基于 OpenCV 的面部特征交换)
+ffmpeg 结合 SDL 编写播放器
+Python3基于Scapy实现DDos
+基于 Python 的简易 Shell 实现
+C语言实现 FTP 服务器
+基于 SendCloud 的邮箱验证
+Ansible 基础教程
+C 语言实现聊天室软件
+Linux 防火墙技术
+Python 3 实现图片转彩色字符
+基于 TCP 的 python 聊天程序
+Python 应用马尔可夫链算法实现随机文本生成
+Python 实现简单画板
+Python实现简易局域网视频聊天工具
+Spark 基础之使用机器学习库 MLlib
+C 语言实现Linux who命令
+Spark 基础之 DataFrame 基本概念学习
+Spark 基础之 GraphX 图计算框架学习
+C++ 基于 OpenCV 实现实时监控和运动检测记录
+使用 Python3 编写系列实用脚本
+基于 Flask 及爬虫实现微信娱乐机器人
+C 语言实现Linux cp 命令  
+Java实现简单的支付平台业务流程
+Python 实现英文新闻摘要自动提取
+PHP 封装分页类
+Node.js 开发端口扫描器
+Node.js静态文件服务器
+Scala 专题教程 - 隐式变换和隐式参数
+Scala 专题教程 - Case Class和模式匹配
+Node.js使用Sequelize操作MySQL
+CSS3实现“红包照片”模糊效果
+C++ 实现银行排队服务模拟
+C语言实现LRU缓存
+大数据带你挖掘打车的秘籍
+Python实现Huffman编码解压缩文件
+数独游戏的 Python 实现与破解
+Linux多线程编程入门指南
+经典算法解题实战
+C语言实现Linux ls命令
+使用OpenCV进行图片平滑处理打造模糊效果
+使用 Python 解数学方程
+DVWA之暴力破解攻击
+Python3实现简单的FTP认证服务器
+SQLAlchemy 基础教程
+Node.js+Redis实现漂流瓶
+PHP会话控制
+J2SE网络通信实践
+Hadoop入门进阶课程
+Linux系统监控实战
+Hibernate框架教程
+PHP实现ECharts图表功能
+Twitter数据情感分析
+使用OpenCV&&C++进行模板匹配
+Elgg 系统跨站脚本攻击实验
+Redis基础教程
+Collabtive系统跨站请求伪造攻击实验
+SET-UID程序漏洞实验
+Ebay 在线拍卖数据分析
+Python3 实现 Markdown 解析器
+跟我一起来玩转Makefile
+Python 实现密码强度检测器
+使用 Spark 和 D3.js 分析航班大数据
+操作系统原理与实践
+Laravel大型项目系列教程
+Python Flask Web框架
+全面解析PythonChallenge
+Scala 专题教程 - Extractor
+Python3 实现键值数据库
+利用TensorFlow进行自然语言处理
+使用 Python 实现一个轻量型数据库
+基于无监督学习的自编码器实现
+使用 Python3 生成分形图片
+Scala 专题教程 - 抽象成员
+R语言绘制文字云
+Python 破解验证码
+Collabtive系统SQL注入实验
+NumPy 百题大冲关
+用 C语言编写自己的编程语言
+Collabtive系统浏览器同源策略探索实验
+高德API + Python 解决租房问题
+HBASE 教程
+Mahout教程
+Hadoop部署及管理
+C语言实现大数计算器（加减乘除）
+Linux系统安装git服务器
+数据结构(新版)
+使用 Matplotlib 绘制 2D 和 3D 图形
+TCP/IP网络协议基础
+LAMP部署及配置
+Spark 基础之 SQL 快速上手
+化繁为简的 apply 家族和管道操作
+200 行 Python 代码实现 2048
+Spark 基础之 SparkR 快速上手
+Python实现Python解释器
+Spring框架入门教程（新版）
+Go by Example 中文版
+纯前端打造实时markdown编辑器
+Git 实战教程
+120行代码实现简单的即时搜索
+Java 8 新特性指南
+基于HTML5 Canvas实现小游戏
+基于 Flask 与 RethinkDB 实现TODO List
+Node.js 教程
+Python版设计模式实践
+Javascript基础（新版）
+Linux内核分析
+Java进阶之设计模式
+公钥加密与PKI实验
+单向哈希函数与MAC实验
+密钥加解密实验
+正则表达式基础
+Return-to-libc攻击实验
+格式化字符串漏洞实验
+基于 JavaScript 实现玫瑰花
+HTML基础入门
+Linux Web运维（Nginx）实战 
+Linux命令实例练习
+软件工程(C编码实践篇)
+基于 Canvas 实现放大镜效果
+制作Markdown预览器
+HTML5基础入门
+GO语言开发2048
+Linux桌面词典
+基于GO语言Revel框架和mgo的博客
+Node.js包教不包会
+Flask 实现简单聊天室
+GTK开发视频播放器
+C 语言制作简单计算器
+Python文本解析器
+网页版2048
+基于 Hadoop 对武侠小说进行词频分析
+瀑布流加载图片墙
+Bootstrap3.0入门学习
+CSS速成教程
+Shell脚本实现打字游戏
+C语言实现一个支持PHP的简易WEB服务器
+Node.js实现私人笔记
+PHP文件编程
+Ruby基础教程
+Java开发简单的计算器
+ThinkPHP实现云书签
+基于 JavaScript 实现打地鼠游戏
+用Python做2048游戏
+PHP 实现留言本
+网页版拼图游戏
+C 语言制作 2048
+网页版扫雷
+酷炫OpenGL旋转地球模型
+基于 HTML5 实现刮刮乐效果
+基于 JavaScript 按键控制坦克移动
+Laravel实现用户注册登录
+C语言实现通讯录
+基于 jQuery 实现图片轮播
+基于腾讯文智的情感分析 
+Rails基础入门
+校花评比排名项目-PHP
+Java和WebSocket开发网页聊天室
+基于 CSS3 实现抽奖大转盘
+C语言利用epoll实现高并发聊天室
+Java 实现日记软件
+网页版别踩白块游戏
+C语言实现ping程序
